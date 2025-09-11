@@ -13,4 +13,6 @@
 * Ненумерованные списки
 - [X] чекбоксы галочка
 - [ ]  чекбоксы пусто
-
+<http://pstu.ru/>
+[Text](http://pstu.ru "Комент для польз")
+[Text][url-pstu][url-pstu] http://pstu.ru
