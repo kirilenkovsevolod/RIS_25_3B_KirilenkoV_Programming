@@ -18,10 +18,10 @@
       
 <http://pstu.ru/>
 
-[Text](http://pstu.ru "Комент для польз")
+[Сайт политех](http://pstu.ru "Комент для польз")
 
-[Text][url-pstu]
+[Сайт политех][url-pstu]
 
 [url-pstu]: http://pstu.ru
 
-![картинка](https://ru.pinterest.com/amagomedova2225/%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8/ "Кошечка")
+![картинка](https://fotkiflo.ru/wp-content/uploads/milye-kotiki-v-shapochkakh-5.webp "Кошечка")
