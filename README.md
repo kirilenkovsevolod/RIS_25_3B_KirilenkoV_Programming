@@ -24,4 +24,20 @@
 
 [url-pstu]: http://pstu.ru
 
-![картинка](https://fotkiflo.ru/wp-content/uploads/milye-kotiki-v-shapochkakh-5.webp "Кошечка")
+![pic](https://fotkiflo.ru/wp-content/uploads/milye-kotiki-v-shapochkakh-5.webp "Кошечка")
+
+Код:
+```python
+print('hello')
+```
+
+Таблицы
+|назв.столб|назв.столб|назв.столб|
+|-|--|----|
+|123|asd|1c1|
+|прив|hi|hello|
+
+|назв.столб|назв.столб|назв.столб|
+|:-|:-:|-:|
+|123|asd|1c1|
+|прив|hi|hello|
